@@ -3,6 +3,9 @@ env
 settings.py
 logs/bot.log
 __pycache__
+images/
+*.jpg
+*jpeg
 
 ##ignore this file##
 /target/
@@ -10,6 +13,7 @@ __pycache__
 /.settings/
 /.vscode/
 /bin/
+/images/
 
 .classpath
 .project
